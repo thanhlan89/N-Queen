@@ -26,12 +26,3 @@ Vi du voi `N = 4`, ket qua la:
 [[2, 4, 1, 3], [3, 1, 4, 2]]
 ```
 
-## Bien dich va chay
-
-```sh
-g++ -std=c++17 -O2 -Wall -Wextra -pedantic main.cpp -o nqueen
-./nqueen
-```
-
-Tep `output.txt` duoc mo o che do binary de giu ky tu xuong dong LF tren
-Windows.
